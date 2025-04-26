@@ -1,7 +1,11 @@
 # NeuroPy-fast
 NeuroPy-fast: Growing Neural Networks
 
-🚀 Advancing Neural Architecture Search with NeuroPy's Growing Neural Networks and Genetic Optimization 🧠
+🚀 Advancing Neural Architecture Search with NeuroPy-fast's Growing Neural Networks and Genetic Optimization 🧠
+
+<p align="center">
+  <img src="./neuropy-fast.png" alt="neuropy-fast Logo" width="300"/>
+</p>
 
 I'm excited to share our latest work on NeuroPy, a novel neural network framework that implements dynamic architecture growth coupled with genetic optimization. This innovative approach addresses two fundamental challenges in deep learning: (1) optimal network sizing and (2) efficient parameter optimization.
 
