@@ -1,0 +1,6 @@
+setup.py
+pyneuro.egg-info/PKG-INFO
+pyneuro.egg-info/SOURCES.txt
+pyneuro.egg-info/dependency_links.txt
+pyneuro.egg-info/requires.txt
+pyneuro.egg-info/top_level.txt
