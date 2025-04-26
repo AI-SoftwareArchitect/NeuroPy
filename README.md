@@ -1,2 +1,2 @@
-# NeuroPy
-NeuroPy: Growing Neural Networks
+# NeuroPy-fast
+NeuroPy-fast: Growing Neural Networks
